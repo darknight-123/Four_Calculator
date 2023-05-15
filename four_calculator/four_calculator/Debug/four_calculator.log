@@ -1,0 +1,3 @@
+﻿  four_calculator.cpp
+C:\Users\liu\Desktop\four_calculator\four_calculator\four_calculator.cpp(12,23): warning C4018: '<': signed/unsigned 不相符
+  four_calculator.vcxproj -> C:\Users\liu\Desktop\four_calculator\Debug\four_calculator.exe
